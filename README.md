@@ -1,8 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/Hamidrezaepr/Hamidrezaepr/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
-(https://github.com/Hamidrezaepr/Hamidrezaepr/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Hamidreza</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Hamidrezaepr/Hamidrezaepr/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 
 
