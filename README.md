@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 I’m currently learning **Nextjs** **JQuery**
 
 - 💬 Ask me about **react html css**
 
